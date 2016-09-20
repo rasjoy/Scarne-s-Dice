@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="dice">Dice</string>
+    <string name="role">Role</string>
+    <string name="defaultScore">Your Score: 0 Computer Score: 0</string>
+    <string name="hold">Hold</string>
+    <string name="reset">Reset</string>
+</resources>
